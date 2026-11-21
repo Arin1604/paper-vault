@@ -1,10 +1,13 @@
 {
   "schema": 1,
   "paper": "arxiv-2603.27891",
-  "status": "inbox",
-  "progress": null,
+  "status": "reading",
+  "progress": {
+    "block": "abstract",
+    "fraction": 0
+  },
   "tags": [],
-  "started_at": null,
+  "started_at": "2026-11-21T04:02:58.140Z",
   "finished_at": null,
-  "updated_at": "2026-11-21T03:11:20.712Z"
+  "updated_at": "2026-11-21T04:02:59.322Z"
 }
