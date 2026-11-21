@@ -1,0 +1,266 @@
+{
+  "schema": 1,
+  "paper": "arxiv-2603.27891",
+  "version": 1,
+  "ingested_at": "2026-11-21T03:11:20.457Z",
+  "rvis_version": "0.1.0",
+  "counts": {
+    "sections": 59,
+    "paragraphs": 87,
+    "equations": 8,
+    "lists": 1,
+    "figures": 15,
+    "tables": 5,
+    "references": 56,
+    "references_with_ids": 7,
+    "images_pdf_crop": 20,
+    "images_html_fallback": 0,
+    "images_missing": 0,
+    "blocks_located_in_pdf": 150,
+    "pages": 28
+  },
+  "warnings": [],
+  "figures": {
+    "S0.F1": {
+      "source": "pdf-crop",
+      "page": 1,
+      "bbox": [
+        131.8,
+        181.9,
+        483.6,
+        429.2
+      ],
+      "score": 1.15,
+      "note": null
+    },
+    "S3.F2": {
+      "source": "pdf-crop",
+      "page": 6,
+      "bbox": [
+        132.8,
+        112.8,
+        483.6,
+        219.0
+      ],
+      "score": 1.125,
+      "note": null
+    },
+    "S4.F3": {
+      "source": "pdf-crop",
+      "page": 7,
+      "bbox": [
+        132.8,
+        267.3,
+        482.6,
+        418.7
+      ],
+      "score": 1.1,
+      "note": null
+    },
+    "S4.F4": {
+      "source": "pdf-crop",
+      "page": 9,
+      "bbox": [
+        132.8,
+        31.7,
+        482.6,
+        228.7
+      ],
+      "score": 1.075,
+      "note": null
+    },
+    "S5.T1": {
+      "source": "pdf-crop",
+      "page": 10,
+      "bbox": [
+        135.1,
+        192.7,
+        480.3,
+        314.5
+      ],
+      "score": 1.15,
+      "note": null
+    },
+    "S5.F5": {
+      "source": "pdf-crop",
+      "page": 11,
+      "bbox": [
+        132.8,
+        112.8,
+        482.7,
+        233.8
+      ],
+      "score": 1.15,
+      "note": null
+    },
+    "S5.F6": {
+      "source": "pdf-crop",
+      "page": 12,
+      "bbox": [
+        132.8,
+        112.8,
+        482.7,
+        313.0
+      ],
+      "score": 1.15,
+      "note": null
+    },
+    "S5.F7": {
+      "source": "pdf-crop",
+      "page": 13,
+      "bbox": [
+        132.8,
+        112.0,
+        482.7,
+        362.2
+      ],
+      "score": 1.15,
+      "note": null
+    },
+    "S5.F8": {
+      "source": "pdf-crop",
+      "page": 14,
+      "bbox": [
+        132.8,
+        105.8,
+        482.7,
+        240.2
+      ],
+      "score": 1.113,
+      "note": null
+    },
+    "S5.F9": {
+      "source": "pdf-crop",
+      "page": 15,
+      "bbox": [
+        132.8,
+        112.8,
+        482.7,
+        253.2
+      ],
+      "score": 1.144,
+      "note": null
+    },
+    "S5.F10": {
+      "source": "pdf-crop",
+      "page": 16,
+      "bbox": [
+        132.8,
+        112.8,
+        482.7,
+        182.5
+      ],
+      "score": 1.144,
+      "note": null
+    },
+    "Pt0.A2.F11": {
+      "source": "pdf-crop",
+      "page": 21,
+      "bbox": [
+        221.3,
+        367.2,
+        393.7,
+        546.8
+      ],
+      "score": 1.15,
+      "note": null
+    },
+    "Pt0.A3.F12": {
+      "source": "pdf-crop",
+      "page": 22,
+      "bbox": [
+        132.8,
+        312.7,
+        482.7,
+        480.5
+      ],
+      "score": 1.15,
+      "note": null
+    },
+    "Pt0.A4.T2": {
+      "source": "pdf-crop",
+      "page": 24,
+      "bbox": [
+        132.8,
+        193.6,
+        482.7,
+        318.4
+      ],
+      "score": 1.144,
+      "note": null
+    },
+    "Pt0.A5.T3": {
+      "source": "pdf-crop",
+      "page": 25,
+      "bbox": [
+        134.9,
+        181.6,
+        480.5,
+        231.6
+      ],
+      "score": 1.125,
+      "note": null
+    },
+    "Pt0.A6.T4": {
+      "source": "pdf-crop",
+      "page": 25,
+      "bbox": [
+        195.5,
+        517.4,
+        419.9,
+        570.1
+      ],
+      "score": 1.15,
+      "note": null
+    },
+    "Pt0.A6.T5": {
+      "source": "pdf-crop",
+      "page": 26,
+      "bbox": [
+        172.7,
+        358.8,
+        445.5,
+        478.8
+      ],
+      "score": 1.15,
+      "note": null
+    },
+    "Pt0.A6.F13": {
+      "source": "pdf-crop",
+      "page": 27,
+      "bbox": [
+        216.9,
+        140.2,
+        397.1,
+        250.4
+      ],
+      "score": 1.15,
+      "note": null
+    },
+    "Pt0.A6.F14": {
+      "source": "pdf-crop",
+      "page": 28,
+      "bbox": [
+        183.6,
+        112.9,
+        431.7,
+        395.4
+      ],
+      "score": 1.137,
+      "note": null
+    },
+    "Pt0.A6.F15": {
+      "source": "pdf-crop",
+      "page": 28,
+      "bbox": [
+        131.8,
+        495.1,
+        483.6,
+        579.2
+      ],
+      "score": 1.137,
+      "note": null
+    }
+  },
+  "corrections_hash": null
+}
