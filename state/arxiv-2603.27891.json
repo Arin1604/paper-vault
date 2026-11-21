@@ -3,11 +3,11 @@
   "paper": "arxiv-2603.27891",
   "status": "reading",
   "progress": {
-    "block": "abstract",
-    "fraction": 0
+    "block": "abstract1.1",
+    "fraction": 0.006
   },
   "tags": [],
   "started_at": "2026-11-21T04:02:58.140Z",
   "finished_at": null,
-  "updated_at": "2026-11-21T04:02:59.322Z"
+  "updated_at": "2026-11-21T04:07:18.729Z"
 }
